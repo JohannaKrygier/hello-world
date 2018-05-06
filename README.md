@@ -1,2 +1,5 @@
 # hello-world
-Just another first repository
+Justanother first-repository
+
+A bit about myself:
+A little later
